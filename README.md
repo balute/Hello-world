@@ -1,6 +1,7 @@
 # Hello-world
 
-My name is Barbara Santiago
+My name is Bárbara Santiago
+
 I  wish to learn as much as I can...
 
 Saying HELLO WORLD is not as easy as it sounds...
