@@ -1,2 +1,3 @@
 # Hello-world
-A place for my ideas, resources or projects to share and diccuss with others
+A place for my ideas, resources or projects to share and diccuss with others.
+This is the first time I work in GitHub.  My expertise is far from good...
